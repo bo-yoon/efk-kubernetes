@@ -1,4 +1,4 @@
-[chicor@chicor-dev-pri-bastion-ec2 chicor-dev-efk]$ cat docker-compose.yaml
+
 version: '2.2'
 services:
   elasticsearch:
