@@ -4,8 +4,9 @@
 <br>
 <br>
 
-master branch : elasticsearch-fluentd-fluentbit-kibana
-efk-elasticsearch-fluentbit-kibana branch : elasticsearch-fluentbit-kibana
+* master branch : elasticsearch-fluentd-fluentbit-kibana
+
+* efk-elasticsearch-fluentbit-kibana branch : elasticsearch-fluentbit-kibana
 
 introduce
 
