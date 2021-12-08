@@ -1,8 +1,11 @@
-# EKF 구축 ( branch : efk-elasticsearch-fluentbit-kibana)
+# EKF 구축 
 : ElasticSearch + fluent bit + Kibana
 
 <br>
 <br>
+
+master branch : elasticsearch-fluentd-fluentbit-kibana
+efk-elasticsearch-fluentbit-kibana branch : elasticsearch-fluentbit-kibana
 
 introduce
 
