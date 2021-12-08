@@ -4,11 +4,11 @@
 <br>
 <br>
 
-* master branch : elasticsearch-fluentd-fluentbit-kibana
+* `master` branch : elasticsearch-fluentd-fluentbit-kibana
 
-* efk-elasticsearch-fluentbit-kibana branch : elasticsearch-fluentbit-kibana
+* `efk-elasticsearch-fluentbit-kibana` branch : elasticsearch-fluentbit-kibana
 
-introduce
+### introduce
 
 * 쿠버네티스 1.21 이하에서만 사용가능 
 * 쿠버네티스 환경에서 fluent bit 을 데몬 셋으로 올린 뒤 사용
@@ -16,12 +16,11 @@ introduce
 
 <br>
 
-todo
-* fluent bit에 부하가 가지 않게 fluentd 를 부분 적용이 필요
+
 
 <br>
 
-how to do
+### how to do
 ```
 
 # elasticsearch, kibana 설치 서버에서
